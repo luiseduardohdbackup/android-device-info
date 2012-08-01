@@ -1,0 +1,14 @@
+android-device-info
+===================
+
+{| class="wikitable"
+! align="left"| Item
+! MODEL
+! MANUFACTURER
+! PRODUCT
+|-
+|Nexus S
+|samsung
+|souja
+|-
+|}
