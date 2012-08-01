@@ -11,7 +11,6 @@ This README contains output of several fields of the Build class for several And
 ! MODEL
 ! MANUFACTURER
 ! PRODUCT
-! BRAND
 ! DEVICE
 ! DISPLAY
 ! BOARD
@@ -20,7 +19,6 @@ This README contains output of several fields of the Build class for several And
 |Nexus S
 |samsung
 |souja
-|google
 |crespo
 |GTJ61
 |herring
@@ -29,7 +27,6 @@ This README contains output of several fields of the Build class for several And
 |DROID RAZR
 |motorola
 |spyder_vzw
-|verizon
 |cdma_spyder
 |6.5.1-167_DHD-14_M3-8
 |spyder
@@ -38,7 +35,6 @@ This README contains output of several fields of the Build class for several And
 |HTC PH39100
 |HTC
 |htc_holiday
-|cingular_us
 |holiday
 |GRJ22
 |holiday
@@ -47,7 +43,6 @@ This README contains output of several fields of the Build class for several And
 |DROID4
 |motorola
 |maserati_vzw
-|verizon
 |cdma_maserati
 |6.5.1_167_DR4-1_M1-219
 |maserati
@@ -56,7 +51,6 @@ This README contains output of several fields of the Build class for several And
 |MB860
 |motorola
 |olyatt
-|MOTO
 |olympus
 |4.5.141
 |olympus
@@ -65,7 +59,6 @@ This README contains output of several fields of the Build class for several And
 |SCH-I500
 |Samsung
 |SCH-I500
-|verizon
 |SCH-I500
 |GINGERBREAD.EH03
 |SCH-I500
@@ -74,7 +67,6 @@ This README contains output of several fields of the Build class for several And
 |USCCADR6230US
 |HTC
 |htc_marvelc
-|us_cellular_wwe
 |marvelc
 |GRJ22
 |marvelc
@@ -83,7 +75,6 @@ This README contains output of several fields of the Build class for several And
 |GT-P3113
 |samsung
 |espressowifiue
-|samsung
 |espressowifi
 |IML74K.P3113UEALD3
 |piranha
