@@ -2,7 +2,7 @@
 
 This README contains output of several fields of the Build class for several Android devices. I created this to make sense of what fields are useful when inspecting a device.
 
-See more info about the Build class in its [https://developer.android.com/reference/android/os/Build.html documentation]
+See more info about the Build class in its [https://developer.android.com/reference/android/os/Build.html documentation].
 
 The [http://www.glbenchmark.com/result.jsp GLBenchmark] project has a lot of this info on its website. Pick a device and then navigate to System Information to see if they have any info on the device in question.
 
@@ -33,4 +33,32 @@ The [http://www.glbenchmark.com/result.jsp GLBenchmark] project has a lot of thi
 |6.5.1-167_DHD-14_M3-8
 |spyder
 |mapphone_cdma
+|-
+|HTC PH39100
+|HTC
+|htc_holiday
+|cingular_us
+|holiday
+|GRJ22
+|holiday
+|holiday
+|-
+|DROID4
+|motorola
+|maserati_vzw
+|verizon
+|cdma_maserati
+|6.5.1_167_DR4-1_M1-219
+|maserati
+|mapphone_cdma
+|-
+|MB860
+|motorola
+|olyatt
+|MOTO
+|olympus
+|4.5.141
+|olympus
+|olympus
+|-
 |}
