@@ -1,14 +1,36 @@
-android-device-info
-===================
+== android-device-info ==
+
+This README contains output of several fields of the Build class for several Android devices. I created this to make sense of what fields are useful when inspecting a device.
+
+See more info about the Build class in its [https://developer.android.com/reference/android/os/Build.html documentation]
+
+The [http://www.glbenchmark.com/result.jsp GLBenchmark] project has a lot of this info on its website. Pick a device and then navigate to System Information to see if they have any info on the device in question.
 
 {| class="wikitable"
-! align="left"| Item
 ! MODEL
 ! MANUFACTURER
 ! PRODUCT
+! BRAND
+! DEVICE
+! DISPLAY
+! BOARD
+! HARDWARE
 |-
 |Nexus S
 |samsung
 |souja
+|google
+|crespo
+|GTJ61
+|herring
+|herring
 |-
+|DROID RAZR
+|motorola
+|spyder_vzw
+|verizon
+|cdma_spyder
+|6.5.1-167_DHD-14_M3-8
+|spyder
+|mapphone_cdma
 |}
