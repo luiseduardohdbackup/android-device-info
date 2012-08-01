@@ -1,10 +1,11 @@
 == android-device-info ==
 
+=== ABOUT ===
 This README contains output of several fields of the Build class for several Android devices. I created this to make sense of what fields are useful when inspecting a device.
 
-See more info about the Build class in its [https://developer.android.com/reference/android/os/Build.html documentation].
-
-The [http://www.glbenchmark.com/result.jsp GLBenchmark] project has a lot of this info on its website. Pick a device and then navigate to System Information to see if they have any info on the device in question.
+=== MORE INFO ===
+* See the documentation [https://developer.android.com/reference/android/os/Build.html documentation] for the Build class for descriptions of the parameters here.
+* The [http://www.glbenchmark.com/result.jsp GLBenchmark] project has a lot of this info on its website for lots of devices. Pick a device and then navigate to System Information to see if they have any info on the device in question.
 
 {| class="wikitable"
 ! MODEL
@@ -61,4 +62,30 @@ The [http://www.glbenchmark.com/result.jsp GLBenchmark] project has a lot of thi
 |olympus
 |olympus
 |-
+|SCH-I500
+|Samsung
+|SCH-I500
+|verizon
+|SCH-I500
+|GINGERBREAD.EH03
+|SCH-I500
+|atlas
+|-
+|USCCADR6230US
+|HTC
+|htc_marvelc
+|us_cellular_wwe
+|marvelc
+|GRJ22
+|marvelc
+|marvelc
+|-
+|GT-P3113
+|samsung
+|espressowifiue
+|samsung
+|espressowifi
+|IML74K.P3113UEALD3
+|piranha
+|espresso
 |}
